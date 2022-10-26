@@ -18,7 +18,7 @@ $ cd spring-taskboard
 ./mvnw spring-boot:run
 ```
 
-> 👉 Start for `Windows` 
+> Start for `Windows` 
 
 ```bash
 mvnw spring-boot:run
