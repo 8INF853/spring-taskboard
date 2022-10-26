@@ -1,4 +1,4 @@
-# UQAC 8INF853 - Spring Demo
+# UQAC 8INF853 - Spring Taskboard
 
 ## ✨ How to use it
 
